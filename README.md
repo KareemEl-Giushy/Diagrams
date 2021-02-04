@@ -1,2 +1,2 @@
 # Diagrams
-Hello this is my diagrams
+Hello these are my diagrams
